@@ -1,0 +1,1 @@
+<img src="/img/iNotify-White.png" alt="Logo" class="logo" style="width:180px; margin-left:17px; "> 
